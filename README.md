@@ -1,5 +1,5 @@
 Visual Studio Codeの設定
-1. https://vscode.dev/  
+1. https://ide.cs50.io/    
 2. 上記のURLを開く　
 3. 画面左上にあるメニューから［View］-［Command Palette］を選択  
 4. [Configure Display Language] を入力し、[日本語] を選択  
