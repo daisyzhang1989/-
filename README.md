@@ -5,7 +5,7 @@
 5. CS50 IDEで [File] - [Upload Local Files...] を選択、ファイル　[credit.c] と [mario.c]　をアップロード　　
 6. ターミナルでデータを入力し、ファイル　[credit.c] と [mario.c]　のコードを検証
 
-クレジットカード認証の検証　　
+クレジットカード認証の検証 [credit.c]　　
 1. ターミナルで [$] の後 [make credit] を入力し、リターンキーを押す　　　　　　
 2. [$] の後 [./credit] を入力し、リターンキーを押す　　　
 3. [what's your card number] を見ると、自由にデータを入力　　
@@ -16,4 +16,6 @@
 8. 数字以外のデータを入力したら、[what's your card number] をリターン　　
 9. 内容を削除したい場合は、 [$] の後 [clear] を入力
 
-図案を検証　　
+図案を検証 [mario.c]　　
+1. ターミナルで [$] の後 [make mario] を入力し、リターンキーを押す  
+2. 
