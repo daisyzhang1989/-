@@ -1,4 +1,4 @@
-1. daisyzhang1989/-でフォルダ [--main.zip] をダウンロード　
+1. このページで　[Code] - [Download zip] を選択、フォルダ [--main.zip] をダウンロード　
 2. フォルダ [--main.zip] を　　　
 3. https://ide.cs50.io/    
 4. 上記のURLを開く　
